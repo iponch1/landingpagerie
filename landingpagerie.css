@@ -496,3 +496,8 @@ button {
 .font-xl {
   font-size: x-large;
 }
+
+.text-black {
+  --tw-text-opacity: 1;
+  color:black;
+}
